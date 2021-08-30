@@ -1,18 +1,23 @@
 # Ningchao Lin
 
 ### Education
-
+```markdown
 B.Eng. in Instrumental& Photoelectronic Engineering, 2020
 
 Beihang University
-
+```
 You can use the [editor on GitHub](https://github.com/BlackMarshall/N-Lin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://ieeexplore.ieee.org/document/9164893) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Publications
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+1. [MACSen: A Processing-In-Sensor Architecture Integrating MAC Operations Into Image Sensor for Ultra-Low-Power BNN-Based Intelligent Visual Perception](https://ieeexplore.ieee.org/document/9164893)
+
+Han Xu, Ziru Li, Ningchao Lin, Qi Wei, Fei Qiao, Xunzhao Yin, Huazhong Yang.
+
+in IEEE TRANSACTIONS ON CIRCUITS AND SYSTEMS II-EXPRESS BRIEFS      
+
 
 ```markdown
 Syntax highlighted code block

@@ -1,4 +1,10 @@
-## Ningchao Lin
+# Ningchao Lin
+
+### Education
+
+B.Eng. in Instrumental& Photoelectronic Engineering, 2020
+
+Beihang University
 
 You can use the [editor on GitHub](https://github.com/BlackMarshall/N-Lin.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

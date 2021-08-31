@@ -7,7 +7,9 @@ B.Eng. in Instrumental& Photoelectronic Engineering, 2020
 
 Beihang University
 ```
-
+```markdown
+Now pursuing MSc in microelectronics at TU Delft
+```
 ### Publications
 
 1\. **MACSen: A Processing-In-Sensor Architecture Integrating MAC Operations Into Image Sensor for Ultra-Low-Power BNN-Based Intelligent Visual Perception**  
